@@ -1,0 +1,2 @@
+# AssetsRelativize
+一个可以将md/tex文件中的绝对路径转换成相对路径的小工具
